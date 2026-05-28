@@ -29,7 +29,7 @@ This application allows users to create, save, and manage notes with an easy-to-
 Add your deployed link here:
 
 ```txt
-https://thoughtpad.vercel.app
+https://memorypad.vercel.app
 ```
 
 ---
